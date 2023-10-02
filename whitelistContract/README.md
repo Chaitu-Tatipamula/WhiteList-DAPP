@@ -1,4 +1,5 @@
-#WhiteList Contract 
+# WhiteList Contract:
+
 This contract resembles :
 ```shell
 // SPDX-License-Identifier: MIT
